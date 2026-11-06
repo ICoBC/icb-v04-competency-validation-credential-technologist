@@ -1,0 +1,31 @@
+{
+  "course_id": "ICB-V04",
+  "repository": "icb-v04-competency-validation-credential-technologist",
+  "repository_url": "https://github.com/ICoBC/icb-v04-competency-validation-credential-technologist",
+  "title": "Competency Validation: Credential Technologist",
+  "subtitle": "Proof that you run standard-conformant credential technology in live work.",
+  "version": "1.0.0",
+  "series": "Validation",
+  "skill": "Standards and interoperability",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "C",
+  "stage_name": "Competency",
+  "alignment_code": "ICSF-STND-L3-C",
+  "badge_name": "Competency Validation: Credential Technologist (Competency, L3)",
+  "hours": "15",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-v04/",
+  "parts": [
+    "About this course",
+    "Portfolio guidance",
+    "Selecting evidence",
+    "Preparing for the technical discussion",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 8,
+  "practice_questions": 9
+}
